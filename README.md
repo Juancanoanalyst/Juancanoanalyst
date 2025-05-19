@@ -2,7 +2,7 @@
 
 🎯 Ingeniero Industrial | Analista de Datos  
 📊 Apasionado por Power BI, Python y el análisis enfocado en negocio  
-🌎 Desde Mosquera, Cundinamarca – Colombia 🇨🇴  
+🌎 Desde Bogotá, Cundinamarca – Colombia 🇨🇴  
 
 ---
 
@@ -17,8 +17,9 @@
 
 ## 🧠 Proyectos Destacados
 
-🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/Portafolio)  
+🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)  
 🛠 [Dashboard de mantenimiento preventivo]()
+
 
 ---
 
