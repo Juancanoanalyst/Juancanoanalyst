@@ -44,6 +44,10 @@
 🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)  
 🛠 [Dashboard de mantenimiento preventivo]()
 
+---
+![Visitor Count](https://profile-counter.glitch.me/Juancanoanalyst/count.svg)
+
+
 
 ---
 
