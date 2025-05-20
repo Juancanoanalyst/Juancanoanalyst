@@ -55,8 +55,10 @@
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://www.linkedin.com/in/juan-pablo-cano-chaparro/)  
-📧 jpcano983@gmail.com
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/juan-pablo-cano-chaparro/)
+[![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico)](mailto:jpcano983@gmail.com)
+[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/Juancanoanalyst)
+
 
 ---
 
