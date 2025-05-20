@@ -55,9 +55,15 @@
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/juan-pablo-cano-chaparro/)
-[![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico)](mailto:jpcano983@gmail.com)
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/Juancanoanalyst)
+<a href="https://www.linkedin.com/in/juan-pablo-cano-chaparro/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>
+</a>
+<a href="mailto:jpcano983@gmail.com">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="30"/>
+</a>
+<a href="https://github.com/Juancanoanalyst" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30"/>
+</a>
 
 
 ---
