@@ -55,8 +55,8 @@
 
 ## 📫 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-📧 juancanoanalyst@gmail.com
+[![LinkedIn](https://www.linkedin.com/in/juan-pablo-cano-chaparro/)  
+📧 jpcano983@gmail.com
 
 ---
 
