@@ -42,7 +42,7 @@
 ## 🧠 Proyectos Destacados
 
 🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)  
-🛠 [Dashboard de mantenimiento preventivo]()
+🛠 [Analisis de marketing Ecomerce](https://github.com/Juancanoanalyst/Showz-marketing)
 
 ---
 
