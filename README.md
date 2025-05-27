@@ -41,9 +41,9 @@
 
 ## 🧠 Proyectos Destacados
 
-!🏋️‍♂️ [Predicción de Deserción de Usuarios en un Gimnasio con Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
-!🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)  
-!🛠 [Analisis de marketing Ecomerce](https://github.com/Juancanoanalyst/Showz-marketing)
+*🏋️‍♂️ [Predicción de Deserción de Usuarios en un Gimnasio con Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
+*🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)  
+*🛠 [Analisis de marketing Ecomerce](https://github.com/Juancanoanalyst/Showz-marketing)
 
 
 ---
