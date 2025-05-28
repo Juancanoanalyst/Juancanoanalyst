@@ -59,12 +59,22 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juancanoanalyst&show_icons=true&theme=radical)
----
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juancanoanalyst&theme=tokyonight" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://profile-counter.glitch.me/Juancanoanalyst/count.svg" alt="Profile Views"/>
+        <br/>
+        <strong>Profile Views</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 👁 Profile Views  
-![Visitor Count](https://profile-counter.glitch.me/Juancanoanalyst/count.svg)
 
 ---
 
