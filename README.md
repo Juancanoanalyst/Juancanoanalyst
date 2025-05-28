@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="ruta/a/tu/imagen.png" width="150" style="border-radius: 50%;">
+</p>
+
+---
+
 # 👋 Hola, soy Juan Cano
 
 🎯 Ingeniero Industrial | Analista de Datos  
 📊 Apasionado por Power BI, Python y el análisis enfocado en negocio  
 🌎 Desde Bogotá, Cundinamarca – Colombia 🇨🇴  
+
 
 ---
 
