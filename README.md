@@ -18,6 +18,14 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
 🌎 Based in Bogotá, Cundinamarca – Colombia 🇨🇴  
 
 ---
+## 🧠 Featured Projects
+
+* 🏋️‍♂️ [User Churn Prediction for a Fitness Center Using Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
+* 🎮 [Video Game Sales Analysis Dashboard](https://github.com/Juancanoanalyst/videogames)
+* 📈 [E-commerce Marketing Analytics](https://github.com/Juancanoanalyst/Showz-marketing)
+
+---
+
 
 ## ⚙️ Technical Skills
 
@@ -51,14 +59,9 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
-## 🧠 Featured Projects
-
-* 🏋️‍♂️ [User Churn Prediction for a Fitness Center Using Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
-* 🎮 [Video Game Sales Analysis Dashboard](https://github.com/Juancanoanalyst/videogames)
-* 📈 [E-commerce Marketing Analytics](https://github.com/Juancanoanalyst/Showz-marketing)
-
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juancanoanalyst&show_icons=true&theme=radical)
 ---
+
 
 ## 👁 Profile Views  
 ![Visitor Count](https://profile-counter.glitch.me/Juancanoanalyst/count.svg)
