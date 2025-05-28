@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ruta/a/tu/imagen.png" width="150" style="border-radius: 50%;">
+  <img src="assets/Banner para Linkedin Analista Sistemas Moderno Negro.png" width="150" style="border-radius: 50%;">
 </p>
 
 ---
