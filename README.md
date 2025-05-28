@@ -17,7 +17,7 @@
 🔎 Currently working on personal projects involving machine learning, dashboard development, and business analytics.  
 📈 I believe in the power of data to support decisions and transform organizations.  
 
-"I turn data into decisions."
+_"I turn data into decisions."_
 ---
 ## 🧠 Featured Projects
 
