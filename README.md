@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <# 👋 Hola, soy Juan Cano>
+  <👋 Hola, soy Juan Cano>
 </p>
 
 
