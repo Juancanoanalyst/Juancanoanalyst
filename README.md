@@ -25,6 +25,7 @@ _"I turn data into decisions."_
 * 🏋️‍♂️ [User Churn Prediction for a Fitness Center Using Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
 * 🎮 [Video Game Sales Analysis Dashboard](https://github.com/Juancanoanalyst/videogames)
 * 📈 [E-commerce Marketing Analytics](https://github.com/Juancanoanalyst/Showz-marketing)
+* 📞 [Telecom Operator Efficiency Analysis & Removal Tool](https://github.com/Juancanoanalyst/Callmemaybe)
 
 ---
 
