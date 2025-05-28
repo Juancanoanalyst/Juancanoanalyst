@@ -4,7 +4,10 @@
 
 ---
 
-# 👋 Hola, soy Juan Cano
+<p align="center">
+  <# 👋 Hola, soy Juan Cano>
+</p>
+
 
 🎯 Ingeniero Industrial | Analista de Datos  
 📊 Apasionado por Power BI, Python y el análisis enfocado en negocio  
