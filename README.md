@@ -18,6 +18,7 @@
 📈 I believe in the power of data to support decisions and transform organizations.  
 
 _"I turn data into decisions."_
+
 ---
 ## 🧠 Featured Projects
 
