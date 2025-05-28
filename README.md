@@ -5,20 +5,23 @@
 ---
 
 <p align="center">
-  <👋 Hola, soy Juan Cano>
+  👋 Hi, I'm Juan Cano
 </p>
 
+---
+## 👨‍💻 About Me
+I'm an Industrial Engineer turned Data Analyst who loves turning raw data into clear, actionable insights. I enjoy building dashboards, predictive models, and tools that empower business decisions.
 
-🎯 Ingeniero Industrial | Analista de Datos  
-📊 Apasionado por Power BI, Python y el análisis enfocado en negocio  
-🌎 Desde Bogotá, Cundinamarca – Colombia 🇨🇴  
 
+🎯 Industrial Engineer | Data Analyst  
+📊 Passionate about Power BI, Python, and business-driven analytics  
+🌎 Based in Bogotá, Cundinamarca – Colombia 🇨🇴  
 
 ---
 
-## Skills
+## ⚙️ Technical Skills
 
-<!-- Herramientas de análisis y ciencia de datos -->
+<!-- Data Analysis & Machine Learning Tools -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,13 +31,13 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0A192F?style=for-the-badge&logo=google&logoColor=white)
 ![Statistics](https://img.shields.io/badge/-Statistics-2E7D32?style=for-the-badge)
 
-<!-- Visualización de datos -->
+<!-- Data Visualization -->
 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<!-- Herramientas BI y Dashboards -->
+<!-- Business Intelligence -->
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="28"/>](https://www.tableau.com/)
@@ -42,29 +45,27 @@
 ![Dash](https://img.shields.io/badge/-Dash-00AEEF?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<!-- Bases de datos -->
+<!-- Databases -->
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🧠 Proyectos Destacados
+## 🧠 Featured Projects
 
-* 🏋️‍♂️ [Predicción de Deserción de Usuarios en un Gimnasio con Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
-* 🔍 [Análisis de ventas de videojuegos](https://github.com/Juancanoanalyst/videogames)
-* 🛠 [Analisis de marketing Ecomerce](https://github.com/Juancanoanalyst/Showz-marketing)
+* 🏋️‍♂️ [User Churn Prediction for a Fitness Center Using Machine Learning](https://github.com/Juancanoanalyst/ModelFitness-ML)
+* 🎮 [Video Game Sales Analysis Dashboard](https://github.com/Juancanoanalyst/videogames)
+* 📈 [E-commerce Marketing Analytics](https://github.com/Juancanoanalyst/Showz-marketing)
 
 ---
 
-### 👁 Profile Views 
+## 👁 Profile Views  
 ![Visitor Count](https://profile-counter.glitch.me/Juancanoanalyst/count.svg)
 
-
-
 ---
 
-## 📫 Conéctate conmigo
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/juan-pablo-cano-chaparro/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30"/>
@@ -76,7 +77,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30"/>
 </a>
 
-
 ---
 
-_“Transformo datos en decisiones.”_
+_“I turn data into decisions.”_
+
