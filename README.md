@@ -10,13 +10,14 @@
 
 ---
 ## 👨‍💻 About Me
-I'm an Industrial Engineer turned Data Analyst who loves turning raw data into clear, actionable insights. I enjoy building dashboards, predictive models, and tools that empower business decisions.
 
+🎓 Industrial Engineer and passionate Data Analyst focused on driving business insights through data.
+💡 Skilled in Power BI, Python, and SQL with a strong interest in data storytelling and automation.
+🌍 Based in Bogotá, Colombia – open to remote opportunities.
+🔎 Currently working on personal projects involving machine learning, dashboard development, and business analytics.
+📈 I believe in the power of data to support decisions and transform organizations.
 
-🎯 Industrial Engineer | Data Analyst  
-📊 Passionate about Power BI, Python, and business-driven analytics  
-🌎 Based in Bogotá, Cundinamarca – Colombia 🇨🇴  
-
+"I turn data into decisions."
 ---
 ## 🧠 Featured Projects
 
@@ -89,7 +90,5 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30"/>
 </a>
 
----
 
-_“I turn data into decisions.”_
 
