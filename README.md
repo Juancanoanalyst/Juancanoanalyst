@@ -27,6 +27,24 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
 ---
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juancanoanalyst&theme=tokyonight" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://profile-counter.glitch.me/Juancanoanalyst/count.svg" alt="Profile Views"/>
+        <br/>
+        <strong>Profile Views</strong>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## ⚙️ Technical Skills
 
 <!-- Data Analysis & Machine Learning Tools -->
@@ -59,25 +77,6 @@ I'm an Industrial Engineer turned Data Analyst who loves turning raw data into c
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juancanoanalyst&theme=tokyonight" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://profile-counter.glitch.me/Juancanoanalyst/count.svg" alt="Profile Views"/>
-        <br/>
-        <strong>Profile Views</strong>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
----
-
 ## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/juan-pablo-cano-chaparro/" target="_blank">
