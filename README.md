@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner para Linkedin Analista Sistemas Moderno Negro (1).png" width="1000" style="border-radius: 50%;">
+  <img src="/assets/Banner para Linkedin Analista Sistemas Moderno Negro (2).png" width="1000" style="border-radius: 50%;">
 </p>
 
 ---
