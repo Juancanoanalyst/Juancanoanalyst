@@ -11,11 +11,12 @@
 ---
 ## 👨‍💻 About Me
 
-🎓 Industrial Engineer and passionate Data Analyst focused on driving business insights through data.  
-💡 Skilled in Power BI, Python, and SQL with a strong interest in data storytelling and automation.  
-🌍 Based in Bogotá, Colombia – open to remote opportunities.  
-🔎 Currently working on personal projects involving machine learning, dashboard development, and business analytics.  
-📈 I believe in the power of data to support decisions and transform organizations.  
+🎓 Industrial Engineer & Data Analyst transitioning to Data Scientist
+💡 Skilled in Power BI, Python, SQL, Airflow, and PostgreSQL (ERP Odoo), with a strong focus on data storytelling, automation, and predictive analytics.
+🌍 Based in Bogotá, Colombia – open to remote opportunities.
+🔎 Currently working on projects involving machine learning, dashboard development, supply chain analytics, and business intelligence.
+📈 Passionate about turning raw data into actionable insights that drive strategic decisions and operational efficiency.
+🤝 Experienced collaborating across production, logistics, and HR teams to integrate data-driven solutions in industrial environments.
 
 _"I turn data into decisions."_
 
